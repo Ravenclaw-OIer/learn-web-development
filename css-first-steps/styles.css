@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+p, li {
+  color: #609ed7;
+}
+li {
+  list-style-type: none;
+}
+.pink {
+  color: pink;
+}
+li em {
+  color: rebeccapurple;
+}
+a:hover {
+  text-decoration: none;
+}
